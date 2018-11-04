@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>790046266664-hb6jvstd5em5rena14pfjve1u948vv53.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.790046266664-hb6jvstd5em5rena14pfjve1u948vv53</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAVEx1_QblItZPP1qT5OeRZmQQDhH7yNP0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>790046266664</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.CodeRed.NetworkUsage</string>
+	<key>PROJECT_ID</key>
+	<string>codered-451b3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>codered-451b3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:790046266664:ios:908a430af8ee7a82</string>
+	<key>DATABASE_URL</key>
+	<string>https://codered-451b3.firebaseio.com</string>
+</dict>
+</plist>
