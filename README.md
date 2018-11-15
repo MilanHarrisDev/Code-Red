@@ -1,5 +1,6 @@
 # Code Red Project - Netstat-AR
 This project was made for University of Houston's Hackathon, Code Red. 
+![](demo.gif)
 # What is this?
 * This application is used to monitor network usage in an easy-to-consume format for multiple devices on a wifi network.
 * This is done by using augmented reality to quickly and efficiently display network upload and download speeds on a specific device.
@@ -11,8 +12,8 @@ This project was made for University of Houston's Hackathon, Code Red.
 * Bandwidth limitations
 
 # Contributors
-Milan Harris
-Pavan Agrawal
-Jon Martin
+* Milan Harris
+* Pavan Agrawal
+* Jon Martin
 
 We won the Oracle Prize in the UH Hackathon with this!
